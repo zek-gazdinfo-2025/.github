@@ -34,7 +34,7 @@ A szoftver egy robusztus Python / FastAPI mikroszolgáltatás-alapú háttérmot
 
 ### 📌 Mérföldkő Státusz és Munkafolyamat
 
-> 🚀 **Hivatalos Állapot: 2. Mérföldkő lezárva (`v2.0.0-merfoldko-2`)**  
+> 🚀 **Hivatalos Állapot: 2. Mérföldkő lezárva (`v2.1.0-merfoldko-2`)**  
 > Az alaparchitektúra, a 240 rekesz logisztikai motorja, az SQLAdmin felület és a 6/6 integrációs teszt sikeresen teljesítve.  
 > 📍 **Jelenlegi fázis:** A 3. Mérföldkő csapatfeladatainak (Szakember, Raktáros modul & Útvonaltervezés, RBAC és Kockázatelemzés) megvalósítása a fejlesztői funkcióágakon.
 
