@@ -28,7 +28,7 @@ A szoftver egy robusztus Python / FastAPI mikroszolgáltatás-alapú háttérmot
 ![SQLAdmin](https://img.shields.io/badge/Admin-SQLAdmin-10B981?style=flat&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-Swagger%20UI-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Release](https://img.shields.io/badge/Release-v2.0.0--merfoldko--2-blue?style=flat)
+![Release](https://img.shields.io/badge/Release-v2.1.0--merfoldko--2-blue?style=flat)
 
 ---
 
