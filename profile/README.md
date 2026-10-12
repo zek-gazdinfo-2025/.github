@@ -29,7 +29,7 @@ A szoftver egy robusztus Python / FastAPI mikroszolgáltatás-alapú háttérmot
 ![SQLAdmin](https://img.shields.io/badge/Admin-SQLAdmin-10B981?style=flat&logo=fastapi&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-Swagger%20UI-85EA2D?style=flat&logo=swagger&logoColor=black)
-[![Release](https://img.shields.io/badge/Release-v2.5.0-blue?style=flat)](https://github.com/zek-gazdinfo-2025/Napelem-erp/releases/tag/v2.5.0)
+[![Release](https://img.shields.io/badge/Release-v2.5.1-blue?style=flat)](https://github.com/zek-gazdinfo-2025/Napelem-erp/releases/tag/v2.5.1)
 [![Render Live](https://img.shields.io/badge/Render-Live%20Demo-46E3B7?style=flat&logo=render&logoColor=white)](https://napelem-erp.onrender.com/admin/)
 [![Swagger API](https://img.shields.io/badge/API-Swagger%20UI-85EA2D?style=flat&logo=swagger&logoColor=black)](https://napelem-erp.onrender.com/docs/)
 [![CI Tests](https://github.com/zek-gazdinfo-2025/Napelem-erp/actions/workflows/tests.yml/badge.svg)](https://github.com/zek-gazdinfo-2025/Napelem-erp/actions) 
@@ -38,7 +38,7 @@ A szoftver egy robusztus Python / FastAPI mikroszolgáltatás-alapú háttérmot
 
 ### 📌 Mérföldkő Státusz és Munkafolyamat
 
-> 🚀 **Hivatalos Állapot: 1. & 2. Mérföldkő lezárva, 3. Mérföldkő folyamatban (`v2.5.0`)**  
+> 🚀 **Hivatalos Állapot: 1. & 2. Mérföldkő lezárva, 3. Mérföldkő folyamatban (`v2.5.1`)**  
 > Az alaparchitektúra, a 240 rekesz kétirányú logisztikai motorja, az SQLAdmin felület, a raktári kiszedési folyamat (C.1, C.2) és a 16/16 integrációs teszt sikeresen teljesítve.  
 > 📍 **Jelenlegi fázis:** A 3. Mérföldkő csapatfeladatainak (optimális útvonaltervezés, RBAC végpontvédelem, pénzügyi kalkuláció és projektzárás) integrációja.
 
